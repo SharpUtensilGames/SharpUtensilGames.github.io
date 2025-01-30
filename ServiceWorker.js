@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Voyages-1.0";
 const contentToCache = [
     "Build/Voyages Web Build.loader.js",
-    "Build/Voyages Web Build.framework.js.gz",
-    "Build/Voyages Web Build.data.gz",
-    "Build/Voyages Web Build.wasm.gz",
+    "Build/Voyages Web Build.framework.js.unityweb",
+    "Build/Voyages Web Build.data.unityweb",
+    "Build/Voyages Web Build.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
